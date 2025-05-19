@@ -21,7 +21,7 @@ This project demonstrates the use of HTML `<frameset>` and `<frame>` elements to
 
 Below is an example of how the page layout appears once the flag is triggered:
 
-![Sample Output](sample_output.png)
+![Sample Output](./output.jpg)
 
 > 📌 *Note: Replace `sample_output.png` with your actual screenshot image of the output.*
 
