@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Flag Frame-Based Webpage
+# Indian Flag Designed Using HTML Frames
 
 This project demonstrates the use of HTML `<frameset>` and `<frame>` elements to divide a webpage into multiple sections — top (upper), middle, and bottom (lower). A separate `flag.html` file can be interacted with (double-clicked) to display the **Indian National Flag** in the frame layout.
 
